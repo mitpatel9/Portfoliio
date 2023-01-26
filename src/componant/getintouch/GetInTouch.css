@@ -1,0 +1,25 @@
+.getintouch{
+    width: 100%;
+    margin-top: 20px;
+}
+.getintouchheding{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--clr);
+}
+.getintouchheding span{
+    margin-left: 10px;
+    color: #8b9bd2;
+}
+.getintouchicon{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin:40px 0;
+}
+.gettouchicon{
+    font-size: 64px !important;
+    display: flex;
+    font-weight: 800;  
+}
