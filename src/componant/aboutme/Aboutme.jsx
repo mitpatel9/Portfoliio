@@ -19,7 +19,7 @@ const Aboutme = () => {
               <br />
               my graduation in Master of Science from SMT S M Panchal Science{" "}
               <br />
-              College, Talog.
+              College, Talod.
             </h3>
           </div>
           <div className="sec2">

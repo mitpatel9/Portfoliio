@@ -6,7 +6,6 @@ import project4 from "./../asset/project4.png";
 import project5 from "./../asset/project5.png";
 import project6 from "./../asset/project6.png";
 import project7 from "./../asset/project7.png";
-import js from "./../asset/icons8-javascript-logo-100.png";
 import html from "./../asset/icons8-html-96.png";
 import python from "./../asset/python.png";
 import css from "./../asset/icons8-css3-100.png";
@@ -15,7 +14,7 @@ import node from "./../asset/icons8-node-js-96.png";
 import mongodb from "./../asset/icons8-mongodb-a-cross-platform-document-oriented-database-program-96.png";
 import Materialui from "./../asset/icons8-material-ui-96.png";
 import exprees from "./../asset/icons8-express-js-100.png";
-import bootstrap from "./../asset/icons8-bootstrap-96.png";
+
 
 const Project = () => {
   return (
@@ -39,6 +38,7 @@ const Project = () => {
             <img src={css} alt="" className="projectimg" />
             <img src={react} alt="" className="projectimg" />
             <img src={node} alt="" className="projectimg" />
+            <img src={exprees} alt="" className="projectimg" />
             <img src={mongodb} alt="" className="projectimg" />
             <img src={Materialui} alt="" className="projectimg" />
           </div>
@@ -66,6 +66,7 @@ const Project = () => {
             <img src={css} alt="" className="projectimg" />
             <img src={react} alt="" className="projectimg" />
             <img src={node} alt="" className="projectimg" />
+            <img src={exprees} alt="" className="projectimg" />
             <img src={mongodb} alt="" className="projectimg" />
             <img src={Materialui} alt="" className="projectimg" />
           </div>
@@ -92,6 +93,7 @@ const Project = () => {
             <img src={css} alt="" className="projectimg" />
             <img src={react} alt="" className="projectimg" />
             <img src={node} alt="" className="projectimg" />
+            <img src={exprees} alt="" className="projectimg" />
             <img src={mongodb} alt="" className="projectimg" />
             <img src={Materialui} alt="" className="projectimg" />
           </div>
@@ -118,6 +120,7 @@ const Project = () => {
           <img src={css} alt="" className="projectimg" />
             <img src={react} alt="" className="projectimg" />
             <img src={node} alt="" className="projectimg" />
+            <img src={exprees} alt="" className="projectimg" />
             <img src={mongodb} alt="" className="projectimg" />
             <img src={Materialui} alt="" className="projectimg" />
           </div>
