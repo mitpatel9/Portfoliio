@@ -9,6 +9,7 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 import PublicIcon from '@mui/icons-material/Public';
 
 const About = () => {
+  //Testing GIT COMMNAD
   return (
     <div className="about" id="about">
       <div className="aboutcontainer">
