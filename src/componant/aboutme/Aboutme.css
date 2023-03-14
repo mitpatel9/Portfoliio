@@ -12,12 +12,14 @@
 }
 .aboutmecontainer {
   display: flex;
-  justify-content: space-around;
+  align-items: center;
+  justify-content: center;
 }
 .leftaboutme{
     display: flex;
     border:2px solid #8b9bd2;
     border-radius:20px ;
+    margin-right: 40px;
 }
 .logoimage{
    display: flex;
@@ -32,7 +34,7 @@
 
 }
 .sec1 h3{
-    font-style: 12px;
+    font-size: 18px;
     color: var(--clr);
     margin-bottom: 10px;
 }

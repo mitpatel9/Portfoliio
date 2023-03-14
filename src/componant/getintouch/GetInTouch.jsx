@@ -1,3 +1,4 @@
+/*eslint-disable */
 import "./GetInTouch.css";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";

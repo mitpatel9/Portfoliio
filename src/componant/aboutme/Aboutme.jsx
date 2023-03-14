@@ -1,3 +1,4 @@
+/*eslint-disable */
 import "./Aboutme.css";
 import logoimg from "./../asset/1.png";
 import InputIcon from "@mui/icons-material/Input";
