@@ -17,7 +17,7 @@ const Navbar = () => {
             <li className="liright"><Link to="skill" spy={true} smooth={true} offset={-40} duration={100} >Skills</Link></li>
             <li className="liright"><Link to="project" spy={true} smooth={true} offset={-40} duration={100} >Projects</Link> </li>
             <li className="liright"><Link to="contact" spy={true} smooth={true} offset={100} duration={100} >Contact</Link> </li>
-            <li className="liright"><a href="https://drive.google.com/file/d/1OK1rhxs_A9Fsaad91FiyR8ZWD9PEaw--/view?usp=sharing" target="_blank">Resume</a> </li>
+            <li className="liright"><a href="https://drive.google.com/file/d/19EGW0EZnv6O_mMIrx8SQmA6byoYungSU/view?usp=sharing" target="_blank">Resume</a> </li>
           </ul>
         </div>
       </div>
